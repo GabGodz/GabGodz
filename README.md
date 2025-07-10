@@ -1,7 +1,7 @@
 <h1 align="center">Gabriel | Web Developer 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web+Full+Stack;Apaixonado+por+Tecnologia+e+Código;Vamos+criar+algo+incrível+juntos!
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web+Full+Stack;Apaixonado+por+Tecnologia+e+Código;Vamos+criar+algo+incrível+juntos!" alt="?" />
 </p>
 
 ---
@@ -17,5 +17,3 @@ const gabriel = {
   café: true,
   humor: "console.log('😂')",
 };
-
-
