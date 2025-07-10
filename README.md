@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @GabGodz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Gabriel | Web Developer 🚀</h1>
 
-<!---
-GabGodz/GabGodz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web+Full+Stack;Apaixonado+por+Tecnologia+e+Código;Vamos+criar+algo+incrível+juntos!" alt="Typing SVG" />
+</p>
+
+---
+
+### 🧠 Sobre mim
+
+```js
+const gabriel = {
+  nome: "Gabriel",
+  stack: ["JavaScript", "TypeScript", "HTML", "CSS", "Angular", "Node.js"],
+  paixão: ["Tecnologia", "UI/UX", "Automação", "Inovação"],
+  aprendendo: ["Next.js", "NestJS", "Inteligência Artificial"],
+  café: true,
+  humor: "console.log('😂')",
+};
+
+
